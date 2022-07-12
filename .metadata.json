@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "NPflow",
-    "oncran": true
-  },
-  {
     "package": "TcGSA",
     "oncran": true
   },
