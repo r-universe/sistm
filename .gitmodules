@@ -13,6 +13,11 @@
 	url = https://github.com/sistm/cytopt-r
 	shallow = true
 	registered = true
+[submodule "NPflow"]
+	path = NPflow
+	url = https://github.com/sistm/npflow
+	shallow = true
+	registered = true
 [submodule "TcGSA"]
 	path = TcGSA
 	url = https://github.com/sistm/tcgsa
