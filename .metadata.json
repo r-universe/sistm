@@ -1,18 +1,18 @@
 [
   {
-    "package": "CytOpT",
-    "oncran": true
-  },
-  {
-    "package": "TcGSA",
-    "oncran": true
-  },
-  {
     "package": "cytometree",
     "oncran": true
   },
   {
+    "package": "CytOpT",
+    "oncran": true
+  },
+  {
     "package": "NPflow",
+    "oncran": true
+  },
+  {
+    "package": "TcGSA",
     "oncran": true
   },
   {
