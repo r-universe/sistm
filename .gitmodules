@@ -13,6 +13,11 @@
 	url = https://github.com/sistm/cytopt-r
 	shallow = true
 	registered = true
+[submodule "LongituRF"]
+	path = LongituRF
+	url = https://github.com/sistm/longiturf
+	shallow = true
+	registered = true
 [submodule "NPflow"]
 	path = NPflow
 	url = https://github.com/sistm/npflow
