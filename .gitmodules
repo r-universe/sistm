@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cytometree"]
 	path = cytometree
 	url = https://github.com/sistm/cytometree
-	shallow = true
-	registered = true
 [submodule "CytOpT"]
 	path = CytOpT
 	url = https://github.com/sistm/cytopt-r
-	shallow = true
-	registered = true
 [submodule "LongituRF"]
 	path = LongituRF
 	url = https://github.com/sistm/longiturf
-	shallow = true
-	registered = true
 [submodule "NPflow"]
 	path = NPflow
 	url = https://github.com/sistm/npflow
-	shallow = true
-	registered = true
 [submodule "TcGSA"]
 	path = TcGSA
 	url = https://github.com/sistm/tcgsa
-	shallow = true
-	registered = true
 [submodule "vici"]
 	path = vici
 	url = https://github.com/sistm/vici
-	shallow = true
-	registered = true
