@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cytometree"]
-	path = cytometree
-	url = https://github.com/sistm/cytometree
 [submodule "CytOpT"]
 	path = CytOpT
 	url = https://github.com/sistm/cytopt-r
@@ -17,6 +14,9 @@
 [submodule "TcGSA"]
 	path = TcGSA
 	url = https://github.com/sistm/tcgsa
+[submodule "cytometree"]
+	path = cytometree
+	url = https://github.com/sistm/cytometree
 [submodule "vici"]
 	path = vici
 	url = https://github.com/sistm/vici
