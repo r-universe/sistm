@@ -5,9 +5,6 @@
 [submodule "CytOpT"]
 	path = CytOpT
 	url = https://github.com/sistm/cytopt-r
-[submodule "LongituRF"]
-	path = LongituRF
-	url = https://github.com/sistm/longiturf
 [submodule "NPflow"]
 	path = NPflow
 	url = https://github.com/sistm/npflow
