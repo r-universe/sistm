@@ -11,6 +11,9 @@
 [submodule "TcGSA"]
 	path = TcGSA
 	url = https://github.com/sistm/tcgsa
+[submodule "citcdf"]
+	path = citcdf
+	url = https://github.com/sistm/citcdf
 [submodule "cytometree"]
 	path = cytometree
 	url = https://github.com/sistm/cytometree
